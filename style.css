@@ -1,0 +1,49 @@
+body{
+    background : url('img/home.jpg');
+    background-size: 1550px;
+}
+.home{
+    text-align: center;
+    color: black;
+    margin-top: 20%;
+}
+.navbar{
+    align-content: center;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+h1{
+    text-align: center;
+}
+.log{
+    margin-left: 40%;
+    text-align: center;
+    margin-top: 15%;
+    background-color: #f2f2f2;
+    width: 20%;
+}
+.reg{
+    margin-left: 40%;
+    text-align: center;
+    margin-top: 15%;
+    background-color: #f2f2f2;
+    width: 20%;
+}
+.ubah{
+    margin-top: 15%;
+    background-color: #f2f2f2;
+    width: 40%;
+}
+.sewa{
+    margin-top: 10%;
+    background-color: #f2f2f2;
+    width: 40%;
+}
+.panjang{
+    width: 100%;
+}
+.zee{
+    
+    text-align: center;
+    background-color: #f2f2f2;
+}
